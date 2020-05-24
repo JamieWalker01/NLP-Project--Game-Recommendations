@@ -1,0 +1,13 @@
+numpy
+pandas
+re
+spacy
+ast
+unicodedata
+seaborn
+CountVectorizer
+train_test_split
+classification_report
+confusion_matrix
+Pipeline
+MultinomialNB
